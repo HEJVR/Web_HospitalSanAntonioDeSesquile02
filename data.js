@@ -445,7 +445,7 @@ const personas = [{
         cargo: "Gestor Comunitario",
         documento: "1075870770",
         tipoSangre: "O+",
-        foto: "/fotos/001.jpg",
+        foto: "fotos/001.jpg",
         telefono: "3012140575"
     },
     {
