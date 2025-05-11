@@ -19,6 +19,7 @@ html, body .structure {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  margin-top: 20px;
   padding: 20px;
 }
 
@@ -41,7 +42,7 @@ html, body .structure {
   color: black;
   padding: 20px;
   border-radius: 12px;
-  box-shadow: 0 0px 20px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 20px 30px rgba(0, 0, 0, 0.5);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -61,12 +62,10 @@ html, body .structure {
   align-items: center;
 }
 
-.card-content h1 {
-  margin-bottom: 20px;
-}
 
 .card-content ul {
   list-style: none;
+  margin-top: 20px;
   padding: 0;
 }
 
