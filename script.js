@@ -9,17 +9,19 @@ const persona = personas.find(p => p.id === id);
 const nombre = document.getElementById("nombre");
 const cargo = document.getElementById("cargo");
 const documento = document.getElementById("documento");
+const telefono = document.getElementById("telefono");
 const sangre = document.getElementById("sangre");
 const foto = document.getElementById("foto");
 const info = document.getElementById("info");
 
 // Mostrar datos si la persona existe
 if (persona) {
+  foto.src = persona.foto;
   nombre.textContent = persona.nombre;
   cargo.textContent = persona.cargo;
   documento.textContent = persona.documento;
   sangre.textContent = persona.tipoSangre;
-  foto.src = persona.foto;
+  telefono.textContent = persona.telefono;
 } else {
   nombre.textContent = "Perfil no encontrado";
   foto.style.display = "none";

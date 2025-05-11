@@ -1,0 +1,107 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+html, body .structure {
+  height: 100%;
+  width: 100%;
+  font-family: sans-serif;
+  background-color: #265787;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.logo-container {
+  position: absolute;
+  top: 20px;
+  width: 100%;
+  text-align: center;
+}
+
+.logo-hospital {
+  height: 80px;
+  max-width: 200px;
+  object-fit: contain;
+}
+
+/* Por defecto: formato móvil */
+.card {
+  background-color: #ffff;
+  color: black;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 0px 20px rgba(0, 0, 0, 0.3);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  max-width: 90%;
+}
+
+.card img {
+  width: 200px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+.card-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card-content h1 {
+  margin-bottom: 20px;
+}
+
+.card-content ul {
+  list-style: none;
+  padding: 0;
+}
+
+.card-content li {
+  margin-bottom: 6px;
+}
+
+.footer {
+    justify-content: center;
+    position: absolute;
+    bottom: 0%;
+    width: 100%;
+  text-align: center;
+  padding: 10px 10px;
+  font-size: 14px;
+  color: #666;
+  background-color: #f1f1f1;
+  opacity: 70%;
+}
+
+/* Escritorio: a partir de 768px */
+@media (min-width: 900px) {
+  .card {
+    flex-direction: row;
+    text-align: left;
+    align-items: flex-start;
+    max-width: 700px;
+  }
+
+  .card img {
+    margin-right: 30px;
+    margin-bottom: 0;
+  }
+
+  .card-content {
+    align-items: flex-start;
+  }
+}
