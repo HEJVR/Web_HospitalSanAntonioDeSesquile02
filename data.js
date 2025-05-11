@@ -4,7 +4,7 @@ const personas = [{
         cargo: "trabajo social ",
         documento: "1071331639",
         tipoSangre: "A+",
-        foto: "",
+        foto: "fotos/soniacarolinarozorodriguez.webp",
         telefono: "3235166701"
     },
     {
@@ -13,7 +13,7 @@ const personas = [{
         cargo: "Coordinadora de equipos basicos ",
         documento: "43984347",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/marianacalleramirez.webp",
         telefono: "3125975726"
     },
     {
@@ -22,7 +22,7 @@ const personas = [{
         cargo: "Gestor Comunitario",
         documento: "1015404568",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/jaimeandrespeñaluna.webp",
         telefono: "3192892306"
     },
     {
@@ -31,7 +31,7 @@ const personas = [{
         cargo: "Jefe enfermería ",
         documento: "1003489232",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/camilaandreacristanchocristancho.webp",
         telefono: "3123647707"
     },
     {
@@ -40,7 +40,7 @@ const personas = [{
         cargo: "Auxiliar de Enfermería",
         documento: "63636669",
         tipoSangre: "A-",
-        foto: "",
+        foto: "fotos/deicyesmeraldaarévalobustos.webp",
         telefono: "3103115906"
     },
     {
@@ -49,7 +49,7 @@ const personas = [{
         cargo: "Auxiliar de Enfermería",
         documento: "1071330504",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/yulyjohanaavendañogil.webp",
         telefono: "3226236364"
     },
     {
@@ -58,7 +58,7 @@ const personas = [{
         cargo: "Auxiliar de Enfermería",
         documento: "1006688776",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/yenifercamilagomezrubiano.webp",
         telefono: "3022269930"
     },
     {
@@ -67,7 +67,7 @@ const personas = [{
         cargo: "Gestor Comunitario",
         documento: "1000364613",
         tipoSangre: "AB-",
-        foto: "",
+        foto: "fotos/mariafernandalatorregarzón.webp",
         telefono: "3208226333"
     },
     {
@@ -76,7 +76,7 @@ const personas = [{
         cargo: "Auxiliar de Enfermería",
         documento: "1071330596",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/urielricardomuñozmaldonado.webp",
         telefono: "3222097840"
     },
     {
@@ -85,7 +85,7 @@ const personas = [{
         cargo: "Auxiliar de Enfermería",
         documento: "1071332136",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/leydiesperanzaorjuelaprieto.webp",
         telefono: "3213908610"
     },
     {
@@ -94,7 +94,7 @@ const personas = [{
         cargo: "Auxiliar de Enfermería",
         documento: "20652522",
         tipoSangre: "A+",
-        foto: "",
+        foto: "fotos/bibianaandreafajardoforigua.webp",
         telefono: "3125234063"
     },
     {
@@ -103,7 +103,7 @@ const personas = [{
         cargo: "Enfermera ",
         documento: "1069262826",
         tipoSangre: "A+",
-        foto: "",
+        foto: "fotos/jullynataliarubianonova.webp",
         telefono: "3024288999"
     },
     {
@@ -112,7 +112,7 @@ const personas = [{
         cargo: "Medico",
         documento: "1032497779",
         tipoSangre: "AB+",
-        foto: "",
+        foto: "fotos/laurasofiaherediasandoval.webp",
         telefono: "3043555453"
     },
     {
@@ -121,7 +121,7 @@ const personas = [{
         cargo: "Auxiliar de Enfermería",
         documento: "1071143972",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/leidyjohanasastoquepeñuela.webp",
         telefono: "3223060176"
     },
     {
@@ -130,7 +130,7 @@ const personas = [{
         cargo: "Auxiliar de Enfermería",
         documento: "1032936062",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/lorenajohanamachucazambrano.webp",
         telefono: "3203013445"
     },
     {
@@ -139,7 +139,7 @@ const personas = [{
         cargo: "Auxiliar de Enfermería",
         documento: "1109380067",
         tipoSangre: "O-",
-        foto: "",
+        foto: "fotos/josesantiagomillanalvarado.webp",
         telefono: "3227134546"
     },
     {
@@ -148,7 +148,7 @@ const personas = [{
         cargo: "Auxiliar de Enfermería",
         documento: "1016021305",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/diegofernandohidalgonieto.webp",
         telefono: "3123064877"
     },
     {
@@ -157,7 +157,7 @@ const personas = [{
         cargo: "Gestor Comunitario",
         documento: "1056502132",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/yulitzafernandasalinasramirez.webp",
         telefono: "3132294416"
     },
     {
@@ -166,7 +166,7 @@ const personas = [{
         cargo: "Auxiliar de Enfermería",
         documento: "1007445133",
         tipoSangre: "O-",
-        foto: "",
+        foto: "fotos/lindaalejandragomezpenagos.webp",
         telefono: "3229035655"
     },
     {
@@ -175,7 +175,7 @@ const personas = [{
         cargo: "Auxiliar de Enfermería",
         documento: "52619255",
         tipoSangre: "A+",
-        foto: "",
+        foto: "fotos/mariacleofehormazabejarano.webp",
         telefono: "3112423781"
     },
     {
@@ -184,7 +184,7 @@ const personas = [{
         cargo: "Enfermera ",
         documento: "1193230510",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/estefanydejesúsduránrivas.webp",
         telefono: "3175210269"
     },
     {
@@ -193,7 +193,7 @@ const personas = [{
         cargo: "Psicologa",
         documento: "52860863",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/nancymilenatapiasmalagon.webp",
         telefono: "3142288155"
     },
     {
@@ -202,7 +202,7 @@ const personas = [{
         cargo: "Auxiliar de Enfermería",
         documento: "1072466356",
         tipoSangre: "A+",
-        foto: "",
+        foto: "fotos/laudicefeoortiz.webp",
         telefono: "3138898853"
     },
     {
@@ -211,7 +211,7 @@ const personas = [{
         cargo: "Auxiliar de Enfermería",
         documento: "1024599326",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/mileidyandreacastillosuancha.webp",
         telefono: "3227509586"
     },
     {
@@ -220,7 +220,7 @@ const personas = [{
         cargo: "Auxiliar de Enfermería",
         documento: "1006408719",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/claudiayanethgranadoscuevas.webp",
         telefono: "3114985202"
     },
     {
@@ -229,7 +229,7 @@ const personas = [{
         cargo: "Auxiliar de Enfermería",
         documento: "1071167651",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/neidynathaliaospinaacosta.webp",
         telefono: "3208336498"
     },
     {
@@ -238,7 +238,7 @@ const personas = [{
         cargo: "Auxiliar de Enfermería",
         documento: "1033730307",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/jenniferruedavergara.webp",
         telefono: "3028422605"
     },
     {
@@ -247,7 +247,7 @@ const personas = [{
         cargo: "Enfermera ",
         documento: "1071328437",
         tipoSangre: "A+",
-        foto: "",
+        foto: "fotos/paulacristinapeñamontaño.webp",
         telefono: "3016481038"
     },
     {
@@ -256,7 +256,7 @@ const personas = [{
         cargo: "Gestor Comunitario",
         documento: "1012385886",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/raulandreslunaarevalo.webp",
         telefono: "3214267585"
     },
     {
@@ -265,7 +265,7 @@ const personas = [{
         cargo: "Psicologa",
         documento: "52736773",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/leidypaulinapaezruiz.webp",
         telefono: "3016097218"
     },
     {
@@ -274,7 +274,7 @@ const personas = [{
         cargo: "Auxiliar de Enfermería",
         documento: "1069264242",
         tipoSangre: "A+",
-        foto: "",
+        foto: "fotos/johannaandreatorresabril.webp",
         telefono: "3115621317"
     },
     {
@@ -283,7 +283,7 @@ const personas = [{
         cargo: "Medico",
         documento: "1015482320",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/lauraalejandragarcíagonzalez.webp",
         telefono: "3165532998"
     },
     {
@@ -292,7 +292,7 @@ const personas = [{
         cargo: "Medico",
         documento: "1000934770",
         tipoSangre: "A+",
-        foto: "",
+        foto: "fotos/valeriacristinacalderoncabezas.webp",
         telefono: "3112340298"
     },
     {
@@ -301,7 +301,7 @@ const personas = [{
         cargo: "Enfermera ",
         documento: "1077457079",
         tipoSangre: "A+",
-        foto: "",
+        foto: "fotos/farleyyisstehmoyasalazar.webp",
         telefono: "3145000604"
     },
     {
@@ -310,7 +310,7 @@ const personas = [{
         cargo: "Psicologa",
         documento: "1071329275",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/soniamireyamuetehuertas.webp",
         telefono: "3142307745"
     },
     {
@@ -319,7 +319,7 @@ const personas = [{
         cargo: "Medico",
         documento: "1000774456",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/laurasofiaseguracasilimas.webp",
         telefono: "3204942323"
     },
     {
@@ -328,7 +328,7 @@ const personas = [{
         cargo: "Auxiliar de Enfermería",
         documento: "1069263856",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/yennyandreagomezgomez.webp",
         telefono: "3208873470"
     },
     {
@@ -337,7 +337,7 @@ const personas = [{
         cargo: "Auxiliar de Enfermería",
         documento: "1069266949",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/leidyyamilequinteromilaguy.webp",
         telefono: "3204746408"
     },
     {
@@ -346,7 +346,7 @@ const personas = [{
         cargo: "Auxiliar de Enfermería",
         documento: "1002396017",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/nayibelizethgonzalezcoronel.webp",
         telefono: "3102650253"
     },
     {
@@ -355,7 +355,7 @@ const personas = [{
         cargo: "Gestor Comunitario",
         documento: "1003587987",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/leilytatianaaceroacevedo.webp",
         telefono: "3108800642"
     },
     {
@@ -364,7 +364,7 @@ const personas = [{
         cargo: "Facturación",
         documento: "1056612340",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/anasofiadiazhuertas.webp",
         telefono: "3228226820"
     },
     {
@@ -373,7 +373,7 @@ const personas = [{
         cargo: "Auxiliar de Enfermería",
         documento: "1078349084",
         tipoSangre: "B+",
-        foto: "",
+        foto: "fotos/niyirethpaolahernandezvargas.webp",
         telefono: "3001764901"
     },
     {
@@ -382,7 +382,7 @@ const personas = [{
         cargo: "Auxiliar de Enfermería",
         documento: "1032396271",
         tipoSangre: "B+",
-        foto: "",
+        foto: "fotos/marisolmorenomoreno.webp",
         telefono: "3162326417"
     },
     {
@@ -391,7 +391,7 @@ const personas = [{
         cargo: "Nutricionista",
         documento: "1016107663",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/cristiandavidvillamilaparicio.webp",
         telefono: "3015272005"
     },
     {
@@ -400,7 +400,7 @@ const personas = [{
         cargo: "Auxiliar de enfermeria ",
         documento: "1074416676",
         tipoSangre: "A+",
-        foto: "",
+        foto: "fotos/beatriselenafrancobeltran.webp",
         telefono: "3112026787"
     },
     {
@@ -409,7 +409,7 @@ const personas = [{
         cargo: "Auxiliar de enfermeria ",
         documento: "1003704717",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/shariklizethgaitanrozo.webp",
         telefono: "3115860753"
     },
     {
@@ -418,7 +418,7 @@ const personas = [{
         cargo: "Auxiliar de enfermeria ",
         documento: "35425335",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/loupezadrianatijogarzón.webp",
         telefono: "3143683156"
     },
     {
@@ -427,7 +427,7 @@ const personas = [{
         cargo: "Enfermera ",
         documento: "52996625",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/yalilemarcelalaraaguilar.webp",
         telefono: "nan"
     },
     {
@@ -436,7 +436,7 @@ const personas = [{
         cargo: "Gestor Comunitario",
         documento: "1076736120",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/sergioalvaradomoncada.webp",
         telefono: "3104955061"
     },
     {
@@ -445,7 +445,7 @@ const personas = [{
         cargo: "Gestor Comunitario",
         documento: "1075870770",
         tipoSangre: "O+",
-        foto: "fotos/001.jpg",
+        foto: "fotos/angelalilianachigusuquepardo.webp",
         telefono: "3012140575"
     },
     {
@@ -454,7 +454,7 @@ const personas = [{
         cargo: "Psicologa",
         documento: "1071329230",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/yinalissetmogollongarzón.webp",
         telefono: "3214791026"
     },
     {
@@ -463,7 +463,7 @@ const personas = [{
         cargo: "Auxiliar de enfermeria ",
         documento: "1071330543",
         tipoSangre: "A+",
-        foto: "",
+        foto: "fotos/mariapilarbeltranjimenez.webp",
         telefono: "3103124857"
     },
     {
@@ -472,7 +472,7 @@ const personas = [{
         cargo: "Trabajadora Social ",
         documento: "1004004819",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/angielorenacalderonquimbay.webp",
         telefono: "3222184529"
     },
     {
@@ -481,7 +481,7 @@ const personas = [{
         cargo: "Gestor Comunitario",
         documento: "1003587729",
         tipoSangre: "O-",
-        foto: "",
+        foto: "fotos/karendayanaluisfuentes.webp",
         telefono: "3223757776"
     },
     {
@@ -490,7 +490,7 @@ const personas = [{
         cargo: "Psicologa",
         documento: "46382432",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/linamilenacamargoboada.webp",
         telefono: "3118641216"
     },
     {
@@ -499,7 +499,7 @@ const personas = [{
         cargo: "Auxiliar de Enfermería",
         documento: "1062646907",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/jeanpaulmartinogarzon.webp",
         telefono: "3015244412"
     },
     {
@@ -508,7 +508,7 @@ const personas = [{
         cargo: "Enfermera ",
         documento: "1073535526",
         tipoSangre: "A+",
-        foto: "",
+        foto: "fotos/mariaalejandrafarfangomez.webp",
         telefono: "3017071327"
     },
     {
@@ -517,7 +517,7 @@ const personas = [{
         cargo: "Gestor Comunitario",
         documento: "1077087404",
         tipoSangre: "A+",
-        foto: "",
+        foto: "fotos/marthanatalycastelblancofonseca.webp",
         telefono: "3043722181"
     },
     {
@@ -526,7 +526,7 @@ const personas = [{
         cargo: "Auxiliar de enerfemeria",
         documento: "1069259869",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/marthalilianavalenzuelaparra.webp",
         telefono: "3204237515"
     },
     {
@@ -535,7 +535,7 @@ const personas = [{
         cargo: "Enfermera ",
         documento: "1073535149",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/daissynataliamonroyjimenez.webp",
         telefono: "3166202600"
     },
     {
@@ -544,7 +544,7 @@ const personas = [{
         cargo: "Gestor Comunitario",
         documento: "1073533464",
         tipoSangre: "O-",
-        foto: "",
+        foto: "fotos/linamariatangarifegomez.webp",
         telefono: "3132323450"
     },
     {
@@ -553,7 +553,7 @@ const personas = [{
         cargo: "odontologa ",
         documento: "20577173",
         tipoSangre: "O+",
-        foto: "",
+        foto: "fotos/liliaveronicaleonquintero.webp",
         telefono: "3014803064"
     },
     {
@@ -562,7 +562,7 @@ const personas = [{
         cargo: "Jefe enfermería ",
         documento: "1073534096",
         tipoSangre: "A-",
-        foto: "",
+        foto: "fotos/andreacecilialarapodence.webp",
         telefono: "3102088867"
     },
 ];
